@@ -69,7 +69,7 @@
             {
                 "id": 10,
                 "name": "NMD",
-                "imageUrl": "https://i.ibb.co/0s3pdnc/a"id"s-nmd.png",
+                "imageUrl": "https://i.ibb.co/0s3pdnc/ads-nmd.png",
                 "price": 220
             },
             {
@@ -155,9 +155,9 @@
     },
     {
        "id" :4,
-        title: "Womens",
+        "title": "Womens",
        "routeName":"womens",
-        items: [
+        "items": [
             {
                "id": 23,
                "name":"Blue Tanktop",
@@ -206,7 +206,7 @@
        "id": 5,
         "title": "Mens",
        "routeName":"mens",
-        items: [
+        "items": [
             {
                "id": 30,
                "name":"Camo Down Vest",
